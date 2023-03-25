@@ -48,7 +48,6 @@ dependencies:
   timeline_tile: ^2.0.0
   shimmer: ^2.0.0
   get: ^4.6.5
-  connectivity: ^3.0.6
   email_validator: ^2.1.2
   cached_network_image: ^3.2.1
   url_launcher: ^6.1.5

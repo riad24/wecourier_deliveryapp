@@ -13,7 +13,7 @@ import 'Screen/SplashScreen/splash_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  // await Firebase.initializeApp();
   final box = GetStorage();
   await GetStorage.init();
   dynamic langValue = const Locale('en', 'US');
